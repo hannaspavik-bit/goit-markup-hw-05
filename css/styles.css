@@ -573,3 +573,18 @@ a {
   border-color: #4d5ae5;
   outline: none;
 }
+.modal-input-wrapper {
+  position: relative;
+}
+
+.modal-input {
+  padding-left: 38px;
+}
+
+.modal-input-icon {
+  position: absolute;
+  left: 16px;
+  top: 50%;
+  transform: translateY(-50%);
+  fill: #2e2f42;
+}
